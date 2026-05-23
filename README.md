@@ -2,8 +2,7 @@
 
 This project is an interactive Excel dashboard built for analyzing Super Store sales data. It allows users to filter and explore key business insights such as sales, transactions, quantities, shipping modes, categories, and customer segments.
 
-<IMG SRC = "https://github.com/Sudhanshu2003/EXCEL-DASHBOARD/blob/cc9efcfaab8449b6d8c630858c8866d0b52a8a70/Sales%20Dashboard%20Image.png">
-<br>
+![Sales Dashboard Preview](https://raw.githubusercontent.com/Sudhanshu2003/EXCEL-DASHBOARD/cc9efcfaab8449b6d8c630858c8866d0b52a8a70/Sales%20Dashboard%20Image.png)
 🚀 Features
 
 📈 KPI Highlights:
